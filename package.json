@@ -10,5 +10,10 @@
   },
   "devDependencies": {
     "vite": "^6.1.0"
+  },
+  "dependencies": {
+    "cannon-es": "^0.20.0",
+    "three": "^0.173.0",
+    "webxr": "^0.0.0"
   }
 }
